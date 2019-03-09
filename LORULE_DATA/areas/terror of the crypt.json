@@ -1,0 +1,19 @@
+{
+  "AreaObjectCache": {},
+  "_Reaper": {
+    "Timer": "00:00:00",
+    "Delay": "00:00:02",
+    "Elapsed": false,
+    "Disabled": false,
+    "Interval": 0,
+    "Tick": 0
+  },
+  "Music": 2,
+  "Rows": 16,
+  "Cols": 16,
+  "Number": 3001,
+  "ID": 3001,
+  "Name": "Terror Of The Crypt",
+  "Flags": 106240,
+  "Owner": null
+}

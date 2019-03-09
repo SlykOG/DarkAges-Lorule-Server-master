@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 3,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 23,
+        "Y": 14,
+        "AreaID": 0
+      },
+      "AreaID": 660,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 3,
+      "Y": 15,
+      "AreaID": 0
+    },
+    "AreaID": 3601,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 660,
+  "Name": "Temp Kas to Chaos 1",
+  "Description": null,
+  "Group": null
+}

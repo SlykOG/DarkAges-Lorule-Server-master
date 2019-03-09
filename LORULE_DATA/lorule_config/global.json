@@ -1,0 +1,135 @@
+{
+  "$type": "Darkages.ServerConstants, Darkages.Server",
+  "AssailsCancelSpells": true,
+  "BadRequestMessage": "(Invalid Request)",
+  "SomethingWentWrong": "Something went wrong.",
+  "BaseAC": 0,
+  "MaxAC": 99,
+  "BaseMR": 70,
+  "BaseStatAttribute": 3,
+  "CancelCastingWhenWalking": true,
+  "CantCarryMoreMsg": "You can't carry more.",
+  "CantDoThat": "You can't do that.",
+  "CantDropItemMsg": "You can't drop that.",
+  "CantEquipThatMessage": "You can't wear that.",
+  "CantUseThat": "You can't use that.",
+  "ChantPrefix": "*",
+  "ChantSuffix": "*",
+  "ClickLootDistance": 3,
+  "ConAddedMessage": "You become more fit.",
+  "ConnectionCapacity": 300,
+  "DayTimeInterval": 30.0,
+  "DeathHPPenalty": 50,
+  "DeathMap": 88888,
+  "DebugMode": false,
+  "DefaultItemColor": 13,
+  "DefaultItemDurability": 1000,
+  "DefaultItemValue": 500,
+  "DefaultKey": "73F2BE80DDEB1BFDC887AB1C3CA18365",
+  "DexAddedMessage": "You feel more flexible.",
+  "DoesNotFitMessage": "That does not fit you.",
+  "DontTurnDuringRefresh": false,
+  "ERRORCAP": 5,
+  "GlobalBaseSkillDelay": 450.0,
+  "GlobalSpawnTimer": 2000.0,
+  "GroupRequestDeclinedMsg": "noname does not wish to join your group.",
+  "HandShakeMessage": "CAN WE ALL GET ALONG\n",
+  "HelperMenuId": -1,
+  "HelperMenuTemplateKey": "Lorule Helper",
+  "IntAddedMessage": "Your mind expands.",
+  "LevelUpMessage": "You have reached level {0}",
+  "LingerState": 1000.0,
+  "MaxCarryGold": 100000000,
+  "MessageClearInterval": 12.0,
+  "MinimumHp": 50,
+  "MonsterSpellSuccessRate": 30,
+  "MundaneRespawnInterval": 10.0,
+  "NotEnoughGoldToDropMsg": "You wish you had that much.",
+  "PingInterval": 10.0,
+  "RefreshOnWalkCollision": true,
+  "RefreshRate": 300,
+  "RegenRate": 15000,
+  "SaveRate": 25.0,
+  "SERVER_PORT": 2615,
+  "SERVER_TITLE": "Slyk",
+  "ServerWelcomeMessage": "Danaan calls your name, and you open your eyes....",
+  "StartingMap": 888,
+  "StartingPosition": {
+    "$type": "Darkages.Types.Position, Darkages.Server",
+    "X": 26,
+    "Y": 48,
+    "AreaID": 0
+  },
+  "StatCap": 255,
+  "StrAddedMessage": "You become stronger.",
+  "ToWeakToLift": "You are to weak to even lift it.",
+  "TransitionPointX": 3,
+  "TransitionPointY": 3,
+  "TransitionZone": 9999,
+  "UserDroppedGoldMsg": "noname has dropped some money nearby.",
+  "VeryNearByProximity": 6,
+  "WeightIncreaseModifer": 3.5,
+  "WisAddedMessage": "Your will increases.",
+  "WithinRangeProximity": 12,
+  "YouDroppedGoldMsg": "you dropped some gold.",
+  "LootTableStackSize": 3,
+  "HpGainFactor": 5,
+  "MpGainFactor": 5,
+  "StatsPerLevel": 2,
+  "NoManaMessage": "Your will is too weak.",
+  "FasNadurStrength": 3.0,
+  "MorFasNadurStrength": 4.5,
+  "CantAttack": "Can't Attack.",
+  "SkullLength": 10,
+  "GroupExpBonus": 5.0,
+  "PlayerLevelCap": 99,
+  "Alters": {
+    "$type": "Darkages.Types.Position[], Darkages.Server",
+    "$values": [
+      {
+        "$type": "Darkages.Types.Position, Darkages.Server",
+        "X": 31,
+        "Y": 52,
+        "AreaID": 1001
+      },
+      {
+        "$type": "Darkages.Types.Position, Darkages.Server",
+        "X": 31,
+        "Y": 53,
+        "AreaID": 1001
+      }
+    ]
+  },
+  "GlobalScripts": {
+    "$type": "System.String[], mscorlib",
+    "$values": [
+      "Tut",
+      "Reactors",
+      "WishingWell"
+    ]
+  },
+  "CursedItemMessage": "You reach for it, But something holds you back.",
+  "Settings": {
+    "$type": "Darkages.ServerConstants+GameSetting[], Darkages.Server",
+    "$values": [
+      {
+        "$type": "Darkages.ServerConstants+GameSetting, Darkages.Server",
+        "SettingOn": "Loot Mode  :Single",
+        "SettingOff": "Loot Mode  :Multi",
+        "Enabled": true
+      },
+      {
+        "$type": "Darkages.ServerConstants+GameSetting, Darkages.Server",
+        "SettingOn": "PVP  :ON",
+        "SettingOff": "PVP  :OFF",
+        "Enabled": true
+      },
+      {
+        "$type": "Darkages.ServerConstants+GameSetting, Darkages.Server",
+        "SettingOn": "AUTO LOOT GOLD  :Toggle",
+        "SettingOff": "AUTO LOOT GOLD  :Toggled",
+        "Enabled": false
+      }
+    ]
+  }
+}

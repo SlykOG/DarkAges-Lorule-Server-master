@@ -1,0 +1,25 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 19,
+        "Y": 9,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": null,
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 6628,
+  "Name": "Warp from 6628 to World Map.",
+  "Description": null,
+  "Group": null
+}

@@ -1,0 +1,24 @@
+{
+  "Posts": [
+    {
+      "Secured": true,
+      "Command": 49,
+      "Owner": "lol",
+      "TopicId": 1645,
+      "PostId": 1,
+      "BoardId": 4,
+      "Read": false,
+      "DatePosted": "2018-01-16T15:27:23.4251816Z",
+      "Sender": "lol",
+      "Message": "yeah",
+      "Recipient": null,
+      "Subject": "me too"
+    }
+  ],
+  "Secured": true,
+  "Command": 49,
+  "Index": 4,
+  "IsMail": false,
+  "Subject": "Market (Buying)",
+  "LetterId": 3
+}

@@ -1,0 +1,19 @@
+{
+  "AreaObjectCache": {},
+  "_Reaper": {
+    "Timer": "00:00:00",
+    "Delay": "00:00:02",
+    "Elapsed": false,
+    "Disabled": false,
+    "Interval": 0,
+    "Tick": 0
+  },
+  "Music": 4,
+  "Rows": 12,
+  "Cols": 12,
+  "Number": 3004,
+  "ID": 3004,
+  "Name": "Wooden Barrels Table West",
+  "Flags": 106240,
+  "Owner": null
+}

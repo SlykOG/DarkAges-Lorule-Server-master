@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 7,
+        "Y": 19,
+        "AreaID": 0
+      },
+      "AreaID": 3027,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 4,
+      "Y": 9,
+      "AreaID": 0
+    },
+    "AreaID": 3025,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 3027,
+  "Name": "Melith Town Hall to Citizen",
+  "Description": null,
+  "Group": null
+}

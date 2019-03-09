@@ -1,0 +1,312 @@
+{
+  "$type": "Darkages.Types.WorldMapTemplate, Darkages.Server",
+  "Portals": {
+    "$type": "System.Collections.Generic.List`1[[Darkages.Types.WorldPortal, Darkages.Server]], mscorlib",
+    "$values": [
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Colosseum Arena",
+        "PointX": 260,
+        "PointY": 335,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 7,
+            "Y": 13,
+            "AreaID": 0
+          },
+          "AreaID": 508,
+          "PortalKey": 0
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Kasminium Mines",
+        "PointX": 145,
+        "PointY": 192,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 43,
+            "Y": 18,
+            "AreaID": 0
+          },
+          "AreaID": 150,
+          "PortalKey": 0
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Rucesion",
+        "PointX": 190,
+        "PointY": 500,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 27,
+            "Y": 39,
+            "AreaID": 0
+          },
+          "AreaID": 505,
+          "PortalKey": 0
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "East Woodlands",
+        "PointX": 147,
+        "PointY": 363,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 2,
+            "Y": 1,
+            "AreaID": 0
+          },
+          "AreaID": 300,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Mileth",
+        "PointX": 83,
+        "PointY": 241,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 13,
+            "Y": 8,
+            "AreaID": 0
+          },
+          "AreaID": 3006,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Mehadi Swamp",
+        "PointX": 263,
+        "PointY": 426,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 2,
+            "Y": 10,
+            "AreaID": 0
+          },
+          "AreaID": 1008,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Grass Fields",
+        "PointX": 208,
+        "PointY": 392,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 8,
+            "Y": 15,
+            "AreaID": 0
+          },
+          "AreaID": 1009,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Shinewood Forest",
+        "PointX": 388,
+        "PointY": 95,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 13,
+            "Y": 22,
+            "AreaID": 0
+          },
+          "AreaID": 542,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Tagor",
+        "PointX": 274,
+        "PointY": 115,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 3,
+            "Y": 17,
+            "AreaID": 0
+          },
+          "AreaID": 2140,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Pravat Cave",
+        "PointX": 145,
+        "PointY": 294,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 25,
+            "Y": 21,
+            "AreaID": 0
+          },
+          "AreaID": 3052,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Soumi",
+        "PointX": 232,
+        "PointY": 35,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 16,
+            "Y": 2,
+            "AreaID": 0
+          },
+          "AreaID": 3016,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Abel",
+        "PointX": 68,
+        "PointY": 284,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 14,
+            "Y": 12,
+            "AreaID": 0
+          },
+          "AreaID": 3014,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Undine",
+        "PointX": 140,
+        "PointY": 113,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 14,
+            "Y": 15,
+            "AreaID": 0
+          },
+          "AreaID": 3008,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Rucesion North",
+        "PointX": 140,
+        "PointY": 478,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 15,
+            "Y": 14,
+            "AreaID": 0
+          },
+          "AreaID": 3010,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Piet",
+        "PointX": 164,
+        "PointY": 334,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 15,
+            "Y": 0,
+            "AreaID": 0
+          },
+          "AreaID": 3020,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Lynith Beach",
+        "PointX": 378,
+        "PointY": 515,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 17,
+            "Y": 9,
+            "AreaID": 0
+          },
+          "AreaID": 6628,
+          "PortalKey": 1
+        }
+      },
+      {
+        "$type": "Darkages.Types.WorldPortal, Darkages.Server",
+        "DisplayName": "Tagor2",
+        "PointX": 285,
+        "PointY": 146,
+        "Destination": {
+          "$type": "Darkages.Types.Warp, Darkages.Server",
+          "Location": {
+            "$type": "Darkages.Types.Position, Darkages.Server",
+            "X": 22,
+            "Y": 95,
+            "AreaID": 0
+          },
+          "AreaID": 662,
+          "PortalKey": 1
+        }
+      }
+    ]
+  },
+  "FieldNumber": 1,
+  "Transition": {
+    "$type": "Darkages.Types.Warp, Darkages.Server",
+    "Location": {
+      "$type": "Darkages.Types.Position, Darkages.Server",
+      "X": 3,
+      "Y": 3,
+      "AreaID": 0
+    },
+    "AreaID": 9999,
+    "PortalKey": 0
+  },
+  "Name": "Temuair",
+  "Description": null,
+  "Group": null
+}

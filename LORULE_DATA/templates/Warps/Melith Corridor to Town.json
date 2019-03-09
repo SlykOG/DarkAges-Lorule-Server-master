@@ -1,0 +1,65 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 0,
+        "Y": 9
+      },
+      "AreaID": 3006,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 8
+      },
+      "AreaID": 3006,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 7
+      },
+      "AreaID": 3006,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 6
+      },
+      "AreaID": 3006,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 5
+      },
+      "AreaID": 3006,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 4
+      },
+      "AreaID": 3006,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 96,
+      "Y": 28
+    },
+    "AreaID": 1001,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 3006,
+  "Name": "Melith Corridor to Town"
+}

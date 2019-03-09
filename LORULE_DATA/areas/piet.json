@@ -1,0 +1,19 @@
+{
+  "AreaObjectCache": {},
+  "_Reaper": {
+    "Timer": "00:00:00",
+    "Delay": "00:00:02",
+    "Elapsed": false,
+    "Disabled": false,
+    "Interval": 0,
+    "Tick": 0
+  },
+  "Music": 5,
+  "Rows": 70,
+  "Cols": 70,
+  "Number": 501,
+  "ID": 501,
+  "Name": "Piet",
+  "Flags": 106240,
+  "Owner": null
+}

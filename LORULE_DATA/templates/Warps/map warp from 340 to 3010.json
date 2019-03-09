@@ -1,0 +1,56 @@
+{
+  "LevelRequired": 20,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 24,
+        "Y": 49,
+        "AreaID": 0
+      },
+      "AreaID": 340,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 25,
+        "Y": 49,
+        "AreaID": 0
+      },
+      "AreaID": 340,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 26,
+        "Y": 49,
+        "AreaID": 0
+      },
+      "AreaID": 340,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 27,
+        "Y": 49,
+        "AreaID": 0
+      },
+      "AreaID": 340,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 15,
+      "Y": 1,
+      "AreaID": 0
+    },
+    "AreaID": 3010,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 340,
+  "Name": "Map Warp from 340 to 3010",
+  "Description": null,
+  "Group": null
+}

@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 24,
+        "Y": 6,
+        "AreaID": 0
+      },
+      "AreaID": 3011,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 9,
+      "Y": 5,
+      "AreaID": 0
+    },
+    "AreaID": 3010,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 3011,
+  "Name": "Temple2Ruc",
+  "Description": null,
+  "Group": null
+}

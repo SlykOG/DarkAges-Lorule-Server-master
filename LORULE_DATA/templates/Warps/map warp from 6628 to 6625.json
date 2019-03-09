@@ -1,0 +1,74 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 6,
+        "Y": 0,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 7,
+        "Y": 0,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 8,
+        "Y": 0,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 9,
+        "Y": 0,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 10,
+        "Y": 0,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 11,
+        "Y": 0,
+        "AreaID": 0
+      },
+      "AreaID": 6628,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 12,
+      "Y": 47,
+      "AreaID": 0
+    },
+    "AreaID": 6625,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 6628,
+  "Name": "Map Warp from 6628 to 6625",
+  "Description": null,
+  "Group": null
+}

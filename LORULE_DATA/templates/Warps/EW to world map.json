@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 11,
+        "Y": 24
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 12,
+        "Y": 24
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 600,
+  "Name": "EW to world map"
+}

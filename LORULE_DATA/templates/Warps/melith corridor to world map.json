@@ -1,0 +1,45 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 15,
+        "Y": 10
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 15,
+        "Y": 9
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 15,
+        "Y": 8
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 15,
+        "Y": 7
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 3006,
+  "Name": "melith corridor to world map"
+}

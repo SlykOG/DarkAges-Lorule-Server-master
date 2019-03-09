@@ -1,0 +1,51 @@
+{
+  "$type": "Darkages.Types.MonsterTemplate, Darkages.Server",
+  "Drops": {
+    "$type": "System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "random"
+    ]
+  },
+  "Image": 0x4007,
+  "ScriptName": "Common Monster",
+  "DefinedX": 0,
+  "DefinedY": 0,
+  "LootType": 36,
+  "MoodType": 8,
+  "SpawnType": 2,
+  "ElementType": 1,
+  "PathQualifer": 1,
+  "Level": 1,
+  "MaximumHP": 1,
+  "MaximumMP": 0,
+  "AreaID": 1003,
+  "MovementSpeed": 3000,
+  "CastSpeed": 6500,
+  "SpawnMax": 1,
+  "SpawnRate": 5,
+  "SpawnSize": 12,
+  "AttackSpeed": 250,
+  "IgnoreCollision": false,
+  "ImageVarience": 0,
+  "SpawnOnlyOnActiveMaps": false,
+  "Grow": false,
+  "SpellScripts": {
+    "$type": "System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "beag cradh"
+    ]
+  },
+  "SkillScripts": {
+    "$type": "System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "DefenseElement": 1,
+  "OffenseElement": 0,
+  "Waypoints": null,
+  "UpdateMapWide": false,
+  "FamilyKey": null,
+  "BaseName": null,
+  "Name": "Mouse",
+  "Description": null,
+  "Group": null
+}

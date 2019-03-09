@@ -1,0 +1,56 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 0,
+        "Y": 8,
+        "AreaID": 0
+      },
+      "AreaID": 501,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 9,
+        "AreaID": 0
+      },
+      "AreaID": 501,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 10,
+        "AreaID": 0
+      },
+      "AreaID": 501,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 11,
+        "AreaID": 0
+      },
+      "AreaID": 501,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 21,
+      "Y": 10,
+      "AreaID": 0
+    },
+    "AreaID": 3020,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 501,
+  "Name": "Map Warp from 501 to 3020",
+  "Description": null,
+  "Group": null
+}

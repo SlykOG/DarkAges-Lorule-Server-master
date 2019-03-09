@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 25,
+        "Y": 23
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 34,
+        "Y": 23
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 3052,
+  "Name": "pravat to world map"
+}

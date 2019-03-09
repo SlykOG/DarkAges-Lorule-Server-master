@@ -1,0 +1,19 @@
+{
+  "AreaObjectCache": {},
+  "_Reaper": {
+    "Timer": "00:00:00",
+    "Delay": "00:00:02",
+    "Elapsed": false,
+    "Disabled": false,
+    "Interval": 0,
+    "Tick": 0
+  },
+  "Music": 1,
+  "Rows": 15,
+  "Cols": 15,
+  "Number": 132,
+  "ID": 132,
+  "Name": "Mileth Armory",
+  "Flags": 106240,
+  "Owner": null
+}

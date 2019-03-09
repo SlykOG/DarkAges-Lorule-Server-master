@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 21,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 1,
+        "Y": 12,
+        "AreaID": 0
+      },
+      "AreaID": 331,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 19,
+      "Y": 8,
+      "AreaID": 0
+    },
+    "AreaID": 339,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 331,
+  "Name": "Map Warp from 331 to 339",
+  "Description": null,
+  "Group": null
+}

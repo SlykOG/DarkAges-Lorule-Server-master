@@ -1,0 +1,21 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 16,
+        "Y": 0
+      },
+      "AreaID": 1,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 3016,
+  "Name": "soumi to world map"
+}

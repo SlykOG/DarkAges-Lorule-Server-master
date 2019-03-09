@@ -1,0 +1,52 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 21,
+        "Y": 44,
+        "AreaID": 0
+      },
+      "AreaID": 505,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 22,
+        "Y": 44,
+        "AreaID": 0
+      },
+      "AreaID": 505,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 27,
+        "Y": 44,
+        "AreaID": 0
+      },
+      "AreaID": 505,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 28,
+        "Y": 44,
+        "AreaID": 0
+      },
+      "AreaID": 505,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": null,
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 505,
+  "Name": "Warp from 505 to World Map.",
+  "Description": null,
+  "Group": null
+}

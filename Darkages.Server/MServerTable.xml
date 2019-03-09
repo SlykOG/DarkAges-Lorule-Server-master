@@ -1,0 +1,12 @@
+﻿<MServerTable>
+  <Servers>
+    <MServer>
+      <Addr>74.109.9.238</Addr>
+      <Port>2610</Port>
+      <Guid>1</Guid>
+      <Name>Dark Ages</Name>
+      <Desc>Slyk Server</Desc>
+      <ID>1</ID>
+    </MServer>    
+  </Servers>
+</MServerTable>

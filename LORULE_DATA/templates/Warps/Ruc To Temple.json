@@ -1,0 +1,47 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 8,
+        "Y": 6,
+        "AreaID": 0
+      },
+      "AreaID": 3010,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 8,
+        "Y": 5,
+        "AreaID": 0
+      },
+      "AreaID": 3010,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 8,
+        "Y": 4,
+        "AreaID": 0
+      },
+      "AreaID": 3010,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 21,
+      "Y": 6,
+      "AreaID": 0
+    },
+    "AreaID": 3011,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 3010,
+  "Name": "Ruc To Temple",
+  "Description": null,
+  "Group": null
+}

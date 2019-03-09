@@ -1,0 +1,29 @@
+{
+  "LevelRequired": 3,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 24,
+        "Y": 6,
+        "AreaID": 0
+      },
+      "AreaID": 3007,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": {
+      "X": 11,
+      "Y": 19,
+      "AreaID": 0
+    },
+    "AreaID": 3006,
+    "PortalKey": 0
+  },
+  "WarpType": 0,
+  "ActivationMapId": 3007,
+  "Name": "Melith Temple Corridor",
+  "Description": null,
+  "Group": null
+}

@@ -1,0 +1,58 @@
+{
+  "$type": "Darkages.Types.MonsterTemplate, Darkages.Server",
+  "Drops": {
+    "$type": "System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "Eppe",
+      "Wolf's Fur",
+      "Wolf's Teeth",
+      "Earth Belt",
+      "Earth Necklace",
+      "Silver Earrings"
+    ]
+  },
+  "Image": 16386,
+  "ScriptName": "Common Monster",
+  "DefinedX": 0,
+  "DefinedY": 0,
+  "LootType": 36,
+  "MoodType": 2,
+  "SpawnType": 2,
+  "ElementType": 1,
+  "PathQualifer": 1,
+  "Level": 7,
+  "MaximumHP": 0,
+  "MaximumMP": 0,
+  "AreaID": 1001,
+  "MovementSpeed": 3000,
+  "CastSpeed": 6500,
+  "SpawnMax": 1,
+  "SpawnRate": 5,
+  "SpawnSize": 12,
+  "AttackSpeed": 1250,
+  "IgnoreCollision": false,
+  "ImageVarience": 0,
+  "SpawnOnlyOnActiveMaps": false,
+  "Grow": false,
+  "SpellScripts": {
+    "$type": "System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib",
+    "$values": [
+      "beag cradh",
+      "beag sal",
+      "beag srad"
+    ]
+  },
+  "SkillScripts": {
+    "$type": "System.Collections.ObjectModel.Collection`1[[System.String, mscorlib]], mscorlib",
+    "$values": []
+  },
+  "DefenseElement": 7,
+  "OffenseElement": 7,
+  "Waypoints": null,
+  "UpdateMapWide": false,
+  "FamilyKey": null,
+  "BaseName": null,
+  "Name": "Wolf",
+  "Description": null,
+  "Group": null
+}

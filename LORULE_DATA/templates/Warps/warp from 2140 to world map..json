@@ -1,0 +1,39 @@
+{
+  "LevelRequired": 1,
+  "WarpRadius": 0,
+  "Activations": [
+    {
+      "Location": {
+        "X": 0,
+        "Y": 15
+      },
+      "AreaID": 2140,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 2,
+        "Y": 2
+      },
+      "AreaID": 2140,
+      "PortalKey": 0
+    },
+    {
+      "Location": {
+        "X": 0,
+        "Y": 0
+      },
+      "AreaID": 2140,
+      "PortalKey": 0
+    }
+  ],
+  "To": {
+    "Location": null,
+    "AreaID": 0,
+    "PortalKey": 1
+  },
+  "WarpType": 1,
+  "ActivationMapId": 2140,
+  "Name": "Warp from 2140 to World Map.",
+  "Description": null
+}
